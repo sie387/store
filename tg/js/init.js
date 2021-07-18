@@ -12,7 +12,7 @@ var html = `<html lang="en">
   <link href="https://cdn.jsdelivr.net/gh/${jscdn[index]}/tg/css/b.css" rel="stylesheet" />
   <script type="text/javascript" src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
  </head>
- <body>
+ <body style="background:#000;">
   <div id="app">
     <div class="index-index">
      <div class="outlay" style="display:none;" id="gotoweb"><img src="https://cdn.jsdelivr.net/gh/${jscdn[index]}/tg/img/wechat.png" alt=""></div>
